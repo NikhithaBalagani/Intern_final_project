@@ -1,1 +1,1 @@
-streamlit rand_model.py
+web:streamlit rand_model.py
