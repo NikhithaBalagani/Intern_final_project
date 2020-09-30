@@ -1,1 +1,1 @@
- web: sh setup.sh && streamlit RandModel.py
+ web: sh setup.sh && streamlit rand_model.py
