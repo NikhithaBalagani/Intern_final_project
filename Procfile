@@ -1,1 +1,2 @@
-web:streamlit rand_model.py
+
+  web: sh setup.sh && streamlit run rand_model.py
